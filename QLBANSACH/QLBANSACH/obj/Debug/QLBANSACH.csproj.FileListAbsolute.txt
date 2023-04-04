@@ -1,0 +1,291 @@
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\QLBANSACH.dll
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\QLBANSACH.pdb
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\Antlr3.Runtime.dll
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.AspNet.dll
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.Core.dll
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.OAuth.dll
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.OpenId.dll
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\EntityFramework.dll
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\Microsoft.Web.Infrastructure.dll
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\Newtonsoft.Json.dll
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\System.Net.Http.dll
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\System.Net.Http.Formatting.dll
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\System.Net.Http.WebRequest.dll
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\System.Web.Helpers.dll
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\System.Web.Http.dll
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\System.Web.Http.WebHost.dll
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\System.Web.Mvc.dll
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\System.Web.Optimization.dll
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\System.Web.Razor.dll
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\System.Web.WebPages.Deployment.dll
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\System.Web.WebPages.dll
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\System.Web.WebPages.Razor.dll
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\WebGrease.dll
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\WebMatrix.Data.dll
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\WebMatrix.WebData.dll
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\EntityFramework.xml
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\Newtonsoft.Json.xml
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\System.Net.Http.xml
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\System.Net.Http.Formatting.xml
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\System.Net.Http.WebRequest.xml
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\System.Web.Helpers.xml
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\System.Web.Http.xml
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\System.Web.Http.WebHost.xml
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\System.Web.Mvc.xml
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\System.Web.Razor.xml
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\System.Web.WebPages.xml
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\System.Web.WebPages.Deployment.xml
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\System.Web.WebPages.Razor.xml
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\WebMatrix.Data.xml
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\WebMatrix.WebData.xml
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.AspNet.xml
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.Core.xml
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.OAuth.xml
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.OpenId.xml
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\obj\Debug\QLBANSACH.dll
+D:\NetXML\CA2\QLBANSACH\SOURCES\QLBANSACH\QLBANSACH\obj\Debug\QLBANSACH.pdb
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\QLBANSACH.dll.config
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\QLBANSACH.dll
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\QLBANSACH.pdb
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\Antlr3.Runtime.dll
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.AspNet.dll
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.Core.dll
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.OAuth.dll
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.OpenId.dll
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\EntityFramework.dll
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\Microsoft.Web.Infrastructure.dll
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\Newtonsoft.Json.dll
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\System.Net.Http.dll
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\System.Net.Http.Formatting.dll
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\System.Net.Http.WebRequest.dll
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\System.Web.Helpers.dll
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\System.Web.Http.dll
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\System.Web.Http.WebHost.dll
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\System.Web.Mvc.dll
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\System.Web.Optimization.dll
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\System.Web.Razor.dll
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\System.Web.WebPages.Deployment.dll
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\System.Web.WebPages.dll
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\System.Web.WebPages.Razor.dll
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\WebGrease.dll
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\WebMatrix.Data.dll
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\WebMatrix.WebData.dll
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\EntityFramework.xml
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\Newtonsoft.Json.xml
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\System.Net.Http.xml
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\System.Net.Http.Formatting.xml
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\System.Net.Http.WebRequest.xml
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\System.Web.Helpers.xml
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\System.Web.Http.xml
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\System.Web.Http.WebHost.xml
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\System.Web.Mvc.xml
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\System.Web.Razor.xml
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\System.Web.WebPages.xml
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\System.Web.WebPages.Deployment.xml
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\System.Web.WebPages.Razor.xml
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\WebMatrix.Data.xml
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\WebMatrix.WebData.xml
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.AspNet.xml
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.Core.xml
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.OAuth.xml
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.OpenId.xml
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\obj\Debug\QLBANSACH.csprojResolveAssemblyReference.cache
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\obj\Debug\QLBANSACH.dll
+E:\Mai Phuoc Tien\Desktop\HK 8\Thay Tai\Thuc Hanh\04_ATNB_ASS02\QLBANSACH\QLBANSACH\obj\Debug\QLBANSACH.pdb
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\QLBANSACH.dll.config
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\QLBANSACH.dll
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\QLBANSACH.pdb
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\Antlr3.Runtime.dll
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.AspNet.dll
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.Core.dll
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.OAuth.dll
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.OpenId.dll
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\EntityFramework.dll
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\Microsoft.Web.Infrastructure.dll
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\Newtonsoft.Json.dll
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\System.Net.Http.dll
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\System.Net.Http.Formatting.dll
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\System.Net.Http.WebRequest.dll
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\System.Web.Helpers.dll
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\System.Web.Http.dll
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\System.Web.Http.WebHost.dll
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\System.Web.Mvc.dll
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\System.Web.Optimization.dll
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\System.Web.Razor.dll
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\System.Web.WebPages.Deployment.dll
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\System.Web.WebPages.dll
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\System.Web.WebPages.Razor.dll
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\WebGrease.dll
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\WebMatrix.Data.dll
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\WebMatrix.WebData.dll
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\EntityFramework.xml
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\Newtonsoft.Json.xml
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\System.Net.Http.xml
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\System.Net.Http.Formatting.xml
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\System.Net.Http.WebRequest.xml
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\System.Web.Helpers.xml
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\System.Web.Http.xml
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\System.Web.Http.WebHost.xml
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\System.Web.Mvc.xml
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\System.Web.Razor.xml
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\System.Web.WebPages.xml
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\System.Web.WebPages.Deployment.xml
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\System.Web.WebPages.Razor.xml
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\WebMatrix.Data.xml
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\WebMatrix.WebData.xml
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.AspNet.xml
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.Core.xml
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.OAuth.xml
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.OpenId.xml
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\obj\Debug\QLBANSACH.csprojResolveAssemblyReference.cache
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\obj\Debug\QLBANSACH.dll
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\obj\Debug\QLBANSACH.pdb
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\PagedList.dll
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\PagedList.Mvc.dll
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\PagedList.xml
+E:\Project\DotNet XML\QLBANSACH\QLBANSACH\bin\PagedList.Mvc.xml
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\QLBANSACH.dll.config
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\QLBANSACH.dll
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\QLBANSACH.pdb
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\Antlr3.Runtime.dll
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.Core.dll
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\EntityFramework.dll
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\Newtonsoft.Json.dll
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\PagedList.dll
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\PagedList.Mvc.dll
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Net.Http.dll
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Net.Http.Formatting.dll
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Net.Http.WebRequest.dll
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Web.Helpers.dll
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Web.Http.dll
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Web.Http.WebHost.dll
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Web.Mvc.dll
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Web.Optimization.dll
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Web.Razor.dll
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Web.WebPages.dll
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Web.WebPages.Razor.dll
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\WebGrease.dll
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\WebMatrix.Data.dll
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\WebMatrix.WebData.dll
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\PagedList.xml
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\PagedList.Mvc.xml
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\EntityFramework.xml
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\Newtonsoft.Json.xml
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Net.Http.xml
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Net.Http.Formatting.xml
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Net.Http.WebRequest.xml
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Web.Helpers.xml
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Web.Http.xml
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Web.Http.WebHost.xml
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Web.Mvc.xml
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Web.Razor.xml
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Web.WebPages.xml
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Web.WebPages.Razor.xml
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\WebMatrix.Data.xml
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\WebMatrix.WebData.xml
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.Core.xml
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\obj\Debug\QLBANSACH.csprojResolveAssemblyReference.cache
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\obj\Debug\QLBANSACH.dll
+C:\Users\Win 8.1 VS8 X64\Desktop\Lab_tai\lab8-9\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\obj\Debug\QLBANSACH.pdb
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\obj\Debug\QLBANSACH.csproj.AssemblyReference.cache
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\obj\Debug\QLBANSACH.csproj.CoreCompileInputs.cache
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\obj\Debug\QLBANSACH.dll
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\obj\Debug\QLBANSACH.pdb
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\QLBANSACH.dll.config
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\QLBANSACH.dll
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\QLBANSACH.pdb
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\Antlr3.Runtime.dll
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.AspNet.dll
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.Core.dll
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.OAuth.dll
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.OpenId.dll
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\EntityFramework.dll
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\EntityFramework.SqlServer.dll
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\Microsoft.Web.Infrastructure.dll
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\Newtonsoft.Json.dll
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\PagedList.dll
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\PagedList.Mvc.dll
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Net.Http.Extensions.dll
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Net.Http.Formatting.dll
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Net.Http.Primitives.dll
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Web.Helpers.dll
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Web.Http.dll
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Web.Http.WebHost.dll
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Web.Mvc.dll
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Web.Optimization.dll
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Web.Razor.dll
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Web.WebPages.Deployment.dll
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Web.WebPages.dll
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Web.WebPages.Razor.dll
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\WebGrease.dll
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\WebMatrix.Data.dll
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\WebMatrix.WebData.dll
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\Org.Mentalis.Security.Cryptography.dll
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\Mono.Math.dll
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\Antlr3.Runtime.pdb
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.AspNet.xml
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.Core.xml
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.OAuth.xml
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.OpenId.xml
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\EntityFramework.xml
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\EntityFramework.SqlServer.xml
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\Newtonsoft.Json.xml
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\PagedList.xml
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\PagedList.Mvc.xml
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Net.Http.Extensions.xml
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Net.Http.Formatting.xml
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Net.Http.Primitives.xml
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Web.Helpers.xml
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Web.Http.xml
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Web.Http.WebHost.xml
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Web.Mvc.xml
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Web.Optimization.xml
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Web.Razor.xml
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Web.WebPages.xml
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Web.WebPages.Deployment.xml
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\System.Web.WebPages.Razor.xml
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\WebMatrix.Data.xml
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\WebMatrix.WebData.xml
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\Org.Mentalis.Security.Cryptography.xml
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\bin\Mono.Math.xml
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\obj\Debug\QLBANSACH.csproj.App.config
+E:\Web_NAT\Lab06\Website bán sách MVC5 và Báo cáo\QLBANSACH_Lab08\QLBANSACH\QLBANSACH\obj\Debug\QLBANSACH.csproj.CopyComplete
